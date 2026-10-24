@@ -1,0 +1,47 @@
+{
+  "@@locale": "ur",
+  "appTitle": "فصل صحت",
+  "appNameUrdu": "فصل صحت",
+  "takePhoto": "تصویر لیں",
+  "takeAnotherPhoto": "ایک اور تصویر",
+  "saved": "محفوظ ہو گیا ✓",
+  "save": "محفوظ کریں",
+  "home": "مرکزی صفحہ",
+  "history": "ریکارڈ",
+  "settings": "ترتیبات",
+  "checking": "چیک کیا جا رہا ہے...",
+  "probably": "امکان ہے: {disease}",
+  "@probably": {
+    "placeholders": {
+      "disease": {
+        "type": "String"
+      }
+    }
+  },
+  "retakeHint": "روشنی میں، پتہ قریب کر کے دوبارہ تصویر لیں",
+  "retakePhoto": "دوبارہ تصویر لیں",
+  "uncertainResultTitle": "پہچان ممکن نہیں ہو سکی",
+  "uncertainResultDesc": "براہ کرم روشنی میں پتے کی واضح تصویر لیں۔",
+  "consultOfficer": "شدید بیماری کی صورت میں قریبی محکمہ زراعت سے رجوع فرمائیں۔",
+  "emptyHistoryTitle": "کوئی ریکارڈ موجود نہیں",
+  "emptyHistoryDesc": "بیماری کی تشخیص کے لیے پتے کی تصویر لیں۔",
+  "language": "زبان",
+  "voiceOutput": "آواز سے رہنمائی",
+  "worksOffline": "مکمل طور پر آف لائن کام کرتا ہے",
+  "appVersion": "ورژن 1.0.0",
+  "permissionDeniedTitle": "کیمرہ کی اجازت درکار ہے",
+  "permissionDeniedDesc": "پتے کی تصویر لینے کے لیے کیمرہ کی اجازت دیں۔",
+  "openSettings": "سیٹنگز کھولیں",
+  "errorTitle": "کوئی خرابی پیش آ گئی",
+  "retry": "دوبارہ کوشش کریں",
+  "deleteConfirm": "کیا آپ اس ریکارڈ کو حذف کرنا چاہتے ہیں؟",
+  "cancel": "منسوخ",
+  "delete": "حذف کریں",
+  "healthy": "صحت مند",
+  "mild": "ہلکی بیماری",
+  "severe": "شدید بیماری",
+  "tipSingleLeaf": "صرف ایک پتہ فوکس میں ہو",
+  "tipPlainBg": "پیچھے صاف پس منظر ہو",
+  "tipDaylight": "دن کی اچھی روشنی، سائے سے بچیں",
+  "gotIt": "سمجھ آ گیا"
+}

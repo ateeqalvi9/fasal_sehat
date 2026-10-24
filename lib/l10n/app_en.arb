@@ -1,0 +1,47 @@
+{
+  "@@locale": "en",
+  "appTitle": "Fasal Sehat",
+  "appNameUrdu": "فصل صحت",
+  "takePhoto": "Take a photo",
+  "takeAnotherPhoto": "Take another photo",
+  "saved": "Saved ✓",
+  "save": "Save",
+  "home": "Home",
+  "history": "History",
+  "settings": "Settings",
+  "checking": "Checking...",
+  "probably": "Probably {disease}",
+  "@probably": {
+    "placeholders": {
+      "disease": {
+        "type": "String"
+      }
+    }
+  },
+  "retakeHint": "Retake the photo closer, in daylight",
+  "retakePhoto": "Retake photo",
+  "uncertainResultTitle": "Could not identify",
+  "uncertainResultDesc": "Retake photo closer and in good lighting.",
+  "consultOfficer": "For severe cases consult your local agriculture officer.",
+  "emptyHistoryTitle": "No scans yet",
+  "emptyHistoryDesc": "Take a photo of a crop leaf to identify diseases.",
+  "language": "Language",
+  "voiceOutput": "Voice output",
+  "worksOffline": "Works 100% offline",
+  "appVersion": "Version 1.0.0",
+  "permissionDeniedTitle": "Camera Permission Required",
+  "permissionDeniedDesc": "Please grant camera access to take leaf photos.",
+  "openSettings": "Open Settings",
+  "errorTitle": "Something went wrong",
+  "retry": "Retry",
+  "deleteConfirm": "Delete this diagnosis?",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "healthy": "Healthy",
+  "mild": "Mild",
+  "severe": "Severe",
+  "tipSingleLeaf": "Single leaf in focus",
+  "tipPlainBg": "Plain background",
+  "tipDaylight": "Good daylight, avoid shadows",
+  "gotIt": "Got it"
+}

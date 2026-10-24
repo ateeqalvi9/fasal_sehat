@@ -1,0 +1,36 @@
+{
+  "Tomato___Early_blight": {
+    "crop": {
+      "en": "Tomato",
+      "ur": "ٹماٹر"
+    },
+    "name": {
+      "en": "Early blight",
+      "ur": "پتہ جھلساؤ"
+    },
+    "severity": "mild",
+    "steps": {
+      "en": [
+        {
+          "icon": "spray",
+          "text": "Spray fungicide every 7 days"
+        },
+        {
+          "icon": "water",
+          "text": "Avoid over-watering"
+        }
+      ],
+      "ur": [
+        {
+          "icon": "spray",
+          "text": "ہر 7 دن بعد فنگی سائیڈ سپرے کریں"
+        },
+        {
+          "icon": "water",
+          "text": "زیادہ پانی دینے سے پرہیز کریں"
+        }
+      ]
+    },
+    "audio": "assets/audio/ur/tomato_early_blight.opus"
+  }
+}
